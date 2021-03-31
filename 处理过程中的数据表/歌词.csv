@@ -1,0 +1,575 @@
+,filename,mood,positive_rate,negative_rate,verb,noun,adjective
+0,NJU Documents\抖音数据分析ppt\歌词\123木头人 (片段).txt,negative,0.4093,0.5907,47,22,10
+1,NJU Documents\抖音数据分析ppt\歌词\18 Mne Uzhe (重置版).txt,positive,0.9932,0.0067,4,2,1
+2,NJU Documents\抖音数据分析ppt\歌词\1967.txt,positive,0.9932,0.0067,4,2,1
+3,NJU Documents\抖音数据分析ppt\歌词\1초 만에 만나는 방법 (1秒内见面的方法).txt,positive,0.7616,0.2383,1,1,0
+4,NJU Documents\抖音数据分析ppt\歌词\1초 만에 만나는 방법.txt,positive,0.7616,0.2383,1,1,0
+5,NJU Documents\抖音数据分析ppt\歌词\5年了依然喜欢听电音 (DJ版).txt,positive,0.8287,0.1712,3,2,0
+6,NJU Documents\抖音数据分析ppt\歌词\AI (纯音乐).txt,positive,0.9932,0.0067,4,2,1
+7,NJU Documents\抖音数据分析ppt\歌词\Ain't No Stoppin' Us Now.txt,negative,0.5,0.5,0,0,0
+8,NJU Documents\抖音数据分析ppt\歌词\And The Winner Is.txt,negative,0.4476,0.5523,2,0,0
+9,NJU Documents\抖音数据分析ppt\歌词\Another Day.txt,positive,0.6147,0.3852,0,1,0
+10,NJU Documents\抖音数据分析ppt\歌词\As Long As You Love Me (Acoustic).txt,negative,0.5,0.5,0,0,0
+11,NJU Documents\抖音数据分析ppt\歌词\As Long As You Love Me.txt,positive,0.8386,0.1613,1,0,0
+12,NJU Documents\抖音数据分析ppt\歌词\Battle Without Honor Or Humanity.txt,positive,0.9932,0.0067,4,2,1
+13,NJU Documents\抖音数据分析ppt\歌词\Be Your Sun (DJ版).txt,positive,0.9932,0.0067,4,2,1
+14,NJU Documents\抖音数据分析ppt\歌词\Be Your Sun.txt,positive,0.9932,0.0067,4,2,1
+15,NJU Documents\抖音数据分析ppt\歌词\Beautiful Now.txt,positive,0.9724,0.0275,0,0,0
+16,NJU Documents\抖音数据分析ppt\歌词\Better Now (Simon de Wit Cover).txt,negative,0.5,0.5,0,0,0
+17,NJU Documents\抖音数据分析ppt\歌词\Betty Boop.txt,negative,0.5,0.5,0,0,0
+18,NJU Documents\抖音数据分析ppt\歌词\Big Big World.txt,negative,0.4476,0.5523,0,1,0
+19,NJU Documents\抖音数据分析ppt\歌词\Blue Sky.txt,negative,0.5,0.5,0,0,0
+20,NJU Documents\抖音数据分析ppt\歌词\Boys.txt,positive,0.8349,0.1650,0,0,1
+21,NJU Documents\抖音数据分析ppt\歌词\Breath.txt,positive,0.9990,0.0009,5,1,0
+22,NJU Documents\抖音数据分析ppt\歌词\Buttercup.txt,negative,0.5,0.5,0,0,0
+23,NJU Documents\抖音数据分析ppt\歌词\Cooking.txt,positive,0.9932,0.0067,4,2,1
+24,NJU Documents\抖音数据分析ppt\歌词\Dance Monkey.txt,positive,0.9932,0.0067,4,2,1
+25,NJU Documents\抖音数据分析ppt\歌词\Dancing Butterflies.txt,positive,0.9932,0.0067,4,2,1
+26,NJU Documents\抖音数据分析ppt\歌词\Dancing With Your Ghost.txt,negative,0.5,0.5,0,0,0
+27,NJU Documents\抖音数据分析ppt\歌词\Dawn of us.txt,positive,0.9893,0.0106,0,1,0
+28,NJU Documents\抖音数据分析ppt\歌词\despair.txt,positive,0.9932,0.0067,4,2,1
+29,NJU Documents\抖音数据分析ppt\歌词\Don't Go (Giving Your Love Away Live).txt,negative,0.5,0.5,0,0,0
+30,NJU Documents\抖音数据分析ppt\歌词\Don't Play.txt,positive,0.9999,3.1210,110,30,10
+31,NJU Documents\抖音数据分析ppt\歌词\Don't Stay Away for Too Long.txt,negative,0.5,0.5,0,0,0
+32,NJU Documents\抖音数据分析ppt\歌词\EA7硬曲 (Remix).txt,positive,0.9932,0.0067,4,2,1
+33,NJU Documents\抖音数据分析ppt\歌词\Early Morning Dreams (Kled Mone Remix).txt,negative,0.5,0.5,0,0,0
+34,NJU Documents\抖音数据分析ppt\歌词\Earthquake (Jason.c Extended Mix).txt,positive,0.9932,0.0067,4,2,1
+35,NJU Documents\抖音数据分析ppt\歌词\Ever Eternity.txt,positive,0.9932,0.0067,4,2,1
+36,NJU Documents\抖音数据分析ppt\歌词\Fade.txt,positive,0.9932,0.0067,4,2,1
+37,NJU Documents\抖音数据分析ppt\歌词\Falling for U.txt,positive,0.5865,0.4135,1,0,0
+38,NJU Documents\抖音数据分析ppt\歌词\Fashion (Explicit).txt,positive,0.6147,0.3852,0,1,0
+39,NJU Documents\抖音数据分析ppt\歌词\Fashion.txt,positive,0.8385,0.1614,0,1,0
+40,NJU Documents\抖音数据分析ppt\歌词\Foot Of The Mountain.txt,negative,0.4476,0.5523,0,0,0
+41,NJU Documents\抖音数据分析ppt\歌词\For the Damaged Coda.txt,positive,0.9932,0.0067,4,2,1
+42,NJU Documents\抖音数据分析ppt\歌词\Ghost.txt,positive,0.5678,0.4321,0,0,0
+43,NJU Documents\抖音数据分析ppt\歌词\Happy Ending.txt,positive,0.9104,0.0895,0,0,0
+44,NJU Documents\抖音数据分析ppt\歌词\Hawai 5.0.txt,positive,0.9932,0.0067,4,2,1
+45,NJU Documents\抖音数据分析ppt\歌词\Heartbreak Hotel.txt,negative,0.5,0.5,0,0,0
+46,NJU Documents\抖音数据分析ppt\歌词\Hello Zepp.txt,positive,0.9932,0.0067,4,2,1
+47,NJU Documents\抖音数据分析ppt\歌词\High Emotions.txt,positive,0.9932,0.0067,4,2,1
+48,NJU Documents\抖音数据分析ppt\歌词\Homage.txt,negative,0.5,0.5,0,0,0
+49,NJU Documents\抖音数据分析ppt\歌词\Hopeful Hearts.txt,positive,0.9932,0.0067,4,2,1
+50,NJU Documents\抖音数据分析ppt\歌词\How You Like That.txt,positive,0.5639,0.4360,0,1,0
+51,NJU Documents\抖音数据分析ppt\歌词\Hyper Confirmed.txt,positive,0.6147,0.3852,0,1,0
+52,NJU Documents\抖音数据分析ppt\歌词\I Love You.txt,positive,0.9873,0.0126,1,0,0
+53,NJU Documents\抖音数据分析ppt\歌词\If.txt,negative,0.2878,0.7121,1,0,0
+54,NJU Documents\抖音数据分析ppt\歌词\iKO.txt,negative,0.5,0.5,0,0,0
+55,NJU Documents\抖音数据分析ppt\歌词\Illusionary Daytime.txt,positive,0.9932,0.0067,4,2,1
+56,NJU Documents\抖音数据分析ppt\歌词\In The End.txt,positive,0.8311,0.1688,1,1,0
+57,NJU Documents\抖音数据分析ppt\歌词\Jhak maar ke (抖音完整原版).txt,positive,0.9932,0.0067,4,2,1
+58,NJU Documents\抖音数据分析ppt\歌词\Jhak maar ke.txt,positive,0.9932,0.0067,4,2,1
+59,NJU Documents\抖音数据分析ppt\歌词\Journey.txt,positive,0.9932,0.0067,4,2,1
+60,NJU Documents\抖音数据分析ppt\歌词\Kalinka (高潮版).txt,positive,0.9703,0.0296,0,2,0
+61,NJU Documents\抖音数据分析ppt\歌词\Kimi No Toriko (抖音完整原版).txt,positive,0.9932,0.0067,4,2,1
+62,NJU Documents\抖音数据分析ppt\歌词\La Banda.txt,negative,0.5,0.5,0,0,0
+63,NJU Documents\抖音数据分析ppt\歌词\Larg.txt,negative,0.5,0.5,0,0,0
+64,NJU Documents\抖音数据分析ppt\歌词\Last Reunion.txt,positive,0.9932,0.0067,4,2,1
+65,NJU Documents\抖音数据分析ppt\歌词\Lego House (Live).txt,negative,0.5,0.5,0,0,0
+66,NJU Documents\抖音数据分析ppt\歌词\Lego House.txt,positive,0.6577,0.3422,1,1,0
+67,NJU Documents\抖音数据分析ppt\歌词\Lollipop (Karaoke Version).txt,positive,0.9932,0.0067,4,2,1
+68,"NJU Documents\抖音数据分析ppt\歌词\Luv(sic.), Pt. 3.txt",negative,0.5,0.5,0,0,0
+69,NJU Documents\抖音数据分析ppt\歌词\May I See U Again (DJ叮当版).txt,positive,0.7693,0.2306,0,1,0
+70,NJU Documents\抖音数据分析ppt\歌词\Memories(Bring Back You)[Originally Performed by Maroon 5].txt,positive,0.9932,0.0067,4,2,1
+71,NJU Documents\抖音数据分析ppt\歌词\Memories.txt,positive,0.8518,0.1481,0,1,0
+72,NJU Documents\抖音数据分析ppt\歌词\Micmacs à la gare.txt,positive,0.9932,0.0067,4,2,1
+73,NJU Documents\抖音数据分析ppt\歌词\Mojito (片段).txt,positive,0.9999,2.1738,64,46,8
+74,NJU Documents\抖音数据分析ppt\歌词\Mojito.txt,positive,0.9999,2.1738,64,46,8
+75,NJU Documents\抖音数据分析ppt\歌词\My Love.txt,negative,0.0967,0.9032,1,1,0
+76,NJU Documents\抖音数据分析ppt\歌词\My Sunset (Original Mix).txt,positive,0.9932,0.0067,4,2,1
+77,NJU Documents\抖音数据分析ppt\歌词\My Sunset.txt,positive,0.9932,0.0067,4,2,1
+78,NJU Documents\抖音数据分析ppt\歌词\Nevada.txt,negative,0.5,0.5,0,0,0
+79,NJU Documents\抖音数据分析ppt\歌词\Never Say Good Bye (绝不说再见).txt,positive,0.6310,0.3689,2,1,0
+80,NJU Documents\抖音数据分析ppt\歌词\Never Say Good Bye.txt,positive,0.6147,0.3852,0,1,0
+81,NJU Documents\抖音数据分析ppt\歌词\Okamochi & Jersey.txt,positive,0.9932,0.0067,4,2,1
+82,NJU Documents\抖音数据分析ppt\歌词\Old Threads.txt,positive,0.9932,0.0067,4,2,1
+83,NJU Documents\抖音数据分析ppt\歌词\On a Slow Boat to China.txt,positive,0.9922,0.0077,0,1,1
+84,NJU Documents\抖音数据分析ppt\歌词\Oops.txt,positive,0.9614,0.0385,0,0,0
+85,NJU Documents\抖音数据分析ppt\歌词\Paris.txt,positive,0.9932,0.0067,4,2,1
+86,NJU Documents\抖音数据分析ppt\歌词\Party Train (Remix).txt,negative,0.3532,0.6467,1,1,0
+87,NJU Documents\抖音数据分析ppt\歌词\Party Train.txt,negative,0.5,0.5,0,0,0
+88,NJU Documents\抖音数据分析ppt\歌词\Pop It In 2.txt,negative,0.5,0.5,0,0,0
+89,NJU Documents\抖音数据分析ppt\歌词\Pump.txt,positive,0.9548,0.0451,4,2,1
+90,NJU Documents\抖音数据分析ppt\歌词\Rende.txt,positive,0.6883,0.3116,0,1,0
+91,NJU Documents\抖音数据分析ppt\歌词\Rewrite The Stars (Lucian Dai Remix).txt,positive,0.9932,0.0067,4,2,1
+92,NJU Documents\抖音数据分析ppt\歌词\Right Now (Na Na Na).txt,negative,0.3375,0.6624,1,0,0
+93,NJU Documents\抖音数据分析ppt\歌词\Romeo's Tune.txt,negative,0.4963,0.5036,0,1,0
+94,NJU Documents\抖音数据分析ppt\歌词\Salt.txt,negative,0.5,0.5,0,0,0
+95,NJU Documents\抖音数据分析ppt\歌词\sans..txt,positive,0.9932,0.0067,4,2,1
+96,NJU Documents\抖音数据分析ppt\歌词\september (抖音DJ热搜版).txt,positive,0.9932,0.0067,4,2,1
+97,NJU Documents\抖音数据分析ppt\歌词\september.txt,positive,0.9999,3.4981,3,6,1
+98,NJU Documents\抖音数据分析ppt\歌词\Seven Sticks of Dynamite.txt,negative,0.5,0.5,0,0,0
+99,NJU Documents\抖音数据分析ppt\歌词\Señorita.txt,positive,0.9042,0.0957,0,0,0
+100,NJU Documents\抖音数据分析ppt\歌词\Shalala Lala.txt,negative,0.5,0.5,0,0,0
+101,NJU Documents\抖音数据分析ppt\歌词\Small Axe.txt,positive,0.6742,0.3257,0,0,0
+102,NJU Documents\抖音数据分析ppt\歌词\Sound of Silence.txt,negative,0.3964,0.6035,0,0,0
+103,NJU Documents\抖音数据分析ppt\歌词\Stan (热播版).txt,positive,0.9932,0.0067,4,2,1
+104,NJU Documents\抖音数据分析ppt\歌词\Stay Calm.txt,negative,0.5,0.5,0,0,0
+105,NJU Documents\抖音数据分析ppt\歌词\Tes River's Hymn.txt,positive,0.9407,0.0592,0,2,0
+106,NJU Documents\抖音数据分析ppt\歌词\The Cure.txt,positive,0.7085,0.2914,1,0,0
+107,NJU Documents\抖音数据分析ppt\歌词\The Party Troll.txt,positive,0.9932,0.0067,4,2,1
+108,NJU Documents\抖音数据分析ppt\歌词\The Sounds Of Silence (纯音乐版).txt,positive,0.9932,0.0067,4,2,1
+109,NJU Documents\抖音数据分析ppt\歌词\The Waiting Game.txt,positive,0.8314,0.1685,1,2,0
+110,NJU Documents\抖音数据分析ppt\歌词\Thrift Shop.txt,negative,0.0291,0.9708,0,1,0
+111,NJU Documents\抖音数据分析ppt\歌词\Time Back.txt,positive,0.9932,0.0067,4,2,1
+112,NJU Documents\抖音数据分析ppt\歌词\Toca.txt,negative,0.4775,0.5224,1,1,0
+113,NJU Documents\抖音数据分析ppt\歌词\Trampoline.txt,positive,0.8312,0.1687,0,0,0
+114,NJU Documents\抖音数据分析ppt\歌词\Treasure boy.txt,positive,0.9999,6.7069,66,41,14
+115,NJU Documents\抖音数据分析ppt\歌词\Trip.txt,positive,0.9932,0.0067,4,2,1
+116,NJU Documents\抖音数据分析ppt\歌词\Waiting For Love (Remix).txt,negative,0.5,0.5,0,0,0
+117,NJU Documents\抖音数据分析ppt\歌词\Wanna Be Starting Something.txt,negative,0.5,0.5,0,0,0
+118,NJU Documents\抖音数据分析ppt\歌词\We Are Perfect.txt,negative,0.5,0.5,0,0,0
+119,NJU Documents\抖音数据分析ppt\歌词\we will rock you.txt,positive,0.5456,0.4543,0,1,0
+120,NJU Documents\抖音数据分析ppt\歌词\Welcome to Planet Urf (欢迎来到海牛星).txt,positive,0.9932,0.0067,4,2,1
+121,NJU Documents\抖音数据分析ppt\歌词\Welcome to Planet Urf.txt,positive,0.9932,0.0067,4,2,1
+122,NJU Documents\抖音数据分析ppt\歌词\When You Left Me.txt,negative,0.5,0.5,0,0,0
+123,NJU Documents\抖音数据分析ppt\歌词\Where Is Your Love.txt,positive,0.6316,0.3683,1,0,0
+124,NJU Documents\抖音数据分析ppt\歌词\Wild (Perfect Mix).txt,negative,0.5,0.5,0,0,0
+125,NJU Documents\抖音数据分析ppt\歌词\Wild.txt,negative,0.5,0.5,0,0,0
+126,NJU Documents\抖音数据分析ppt\歌词\Woman.txt,positive,0.5379,0.4620,0,1,0
+127,NJU Documents\抖音数据分析ppt\歌词\Wonderful U.txt,positive,0.8097,0.1902,0,0,1
+128,NJU Documents\抖音数据分析ppt\歌词\Wrap Me in plastic (片段).txt,negative,0.5,0.5,0,0,0
+129,NJU Documents\抖音数据分析ppt\歌词\Wrap Me In Plastic.txt,negative,0.5,0.5,0,0,0
+130,NJU Documents\抖音数据分析ppt\歌词\You.txt,positive,0.9932,0.0067,4,2,1
+131,NJU Documents\抖音数据分析ppt\歌词\всю жизнь.txt,negative,0.5,0.5,0,0,0
+132,NJU Documents\抖音数据分析ppt\歌词\это ли счастье (热搜版).txt,negative,0.1567,0.8432,1,1,1
+133,NJU Documents\抖音数据分析ppt\歌词\это ли счастье.txt,negative,0.5,0.5,0,0,0
+134,NJU Documents\抖音数据分析ppt\歌词\いつも何度でも (永远同在).txt,positive,0.9912,0.0087,22,6,5
+135,NJU Documents\抖音数据分析ppt\歌词\お断りします.txt,negative,6.6613,0.9999,42,6,3
+136,NJU Documents\抖音数据分析ppt\歌词\がまんして下さい.txt,positive,0.9932,0.0067,4,2,1
+137,NJU Documents\抖音数据分析ppt\歌词\これがオタクの生きる道.txt,positive,0.9932,0.0067,4,2,1
+138,NJU Documents\抖音数据分析ppt\歌词\カトラリー (餐具).txt,positive,0.8576,0.1423,5,2,1
+139,NJU Documents\抖音数据分析ppt\歌词\フンフンギターだよ、らき☆すた.txt,positive,0.9548,0.0451,4,2,1
+140,NJU Documents\抖音数据分析ppt\歌词\一剪梅.txt,positive,0.9094,0.0906,19,22,2
+141,NJU Documents\抖音数据分析ppt\歌词\一千零一次我爱你.txt,positive,0.9974,0.0026,68,19,5
+142,NJU Documents\抖音数据分析ppt\歌词\一口一口.txt,negative,0.4013,0.5987,71,33,20
+143,NJU Documents\抖音数据分析ppt\歌词\一晃就老了 (DJ版).txt,negative,0.0527,0.9473,52,25,41
+144,NJU Documents\抖音数据分析ppt\歌词\一曲红尘.txt,positive,0.8068,0.1932,47,27,8
+145,NJU Documents\抖音数据分析ppt\歌词\一生与你擦肩而过.txt,positive,0.8679,0.1321,65,33,8
+146,NJU Documents\抖音数据分析ppt\歌词\一生回味一面 (Live片段).txt,positive,0.9854,0.0146,85,36,4
+147,NJU Documents\抖音数据分析ppt\歌词\一直很安静.txt,positive,0.96,0.04,53,20,10
+148,NJU Documents\抖音数据分析ppt\歌词\一秒变身九尾狐 (DJ版).txt,positive,0.9932,0.0067,4,2,1
+149,NJU Documents\抖音数据分析ppt\歌词\一腔诗意喂了狗.txt,positive,0.9932,0.0067,4,2,1
+150,NJU Documents\抖音数据分析ppt\歌词\万有引力 (DJ版).txt,positive,0.9932,0.0067,4,2,1
+151,NJU Documents\抖音数据分析ppt\歌词\万有引力.txt,positive,0.975,0.025,72,70,22
+152,NJU Documents\抖音数据分析ppt\歌词\三国恋.txt,positive,0.9784,0.0216,57,42,9
+153,NJU Documents\抖音数据分析ppt\歌词\三寸天堂.txt,negative,0.0479,0.9521,59,27,7
+154,NJU Documents\抖音数据分析ppt\歌词\三月里的小雨.txt,negative,0.0937,0.9063,50,27,6
+155,NJU Documents\抖音数据分析ppt\歌词\上劲儿摇.txt,positive,0.8287,0.1712,3,2,0
+156,"NJU Documents\抖音数据分析ppt\歌词\下个,路口,见.txt",positive,0.9759,0.0241,40,31,1
+157,NJU Documents\抖音数据分析ppt\歌词\下山.txt,positive,0.9915,0.0085,49,46,22
+158,NJU Documents\抖音数据分析ppt\歌词\不分手的恋爱.txt,negative,0.1275,0.8725,110,32,14
+159,NJU Documents\抖音数据分析ppt\歌词\不变的音乐Jealousy.txt,positive,0.9932,0.0067,4,2,1
+160,NJU Documents\抖音数据分析ppt\歌词\不是所有人都会值得等.txt,positive,0.9463,0.0537,81,55,7
+161,NJU Documents\抖音数据分析ppt\歌词\不爱我就别伤害我.txt,negative,0.0366,0.9634,136,25,8
+162,NJU Documents\抖音数据分析ppt\歌词\不舍 (DJ何鹏版).txt,positive,0.8776,0.1224,83,21,9
+163,NJU Documents\抖音数据分析ppt\歌词\不谓侠.txt,positive,0.5207,0.4793,54,68,17
+164,NJU Documents\抖音数据分析ppt\歌词\不配怀念 (DJ69、DJ虞姬、DJ锋锋版).txt,negative,0.0185,0.9815,70,36,11
+165,NJU Documents\抖音数据分析ppt\歌词\不配怀念 (DJ版).txt,negative,0.0185,0.9815,70,36,11
+166,NJU Documents\抖音数据分析ppt\歌词\不配怀念 (抖音完整DJ原版).txt,negative,0.0328,0.9672,52,23,8
+167,NJU Documents\抖音数据分析ppt\歌词\不配怀念.txt,negative,0.0185,0.9815,70,36,11
+168,NJU Documents\抖音数据分析ppt\歌词\两个世界 (DJ版).txt,positive,0.9602,0.0398,89,69,28
+169,NJU Documents\抖音数据分析ppt\歌词\个人简介.txt,positive,0.5745,0.4255,126,66,18
+170,NJU Documents\抖音数据分析ppt\歌词\中国新说唱EP01 RAP01 (Live).txt,positive,0.9799,0.0201,55,29,18
+171,NJU Documents\抖音数据分析ppt\歌词\乘风破浪向你飘.txt,positive,0.9226,0.0774,54,50,13
+172,NJU Documents\抖音数据分析ppt\歌词\乙女日和.txt,positive,0.9932,0.0067,4,2,1
+173,NJU Documents\抖音数据分析ppt\歌词\习惯你的好.txt,positive,0.8531,0.1469,107,50,20
+174,NJU Documents\抖音数据分析ppt\歌词\亡くなった愛 (Remix).txt,positive,0.9841,0.0159,53,48,26
+175,NJU Documents\抖音数据分析ppt\歌词\人生天涯路 (DJ版).txt,positive,0.9697,0.0303,83,54,10
+176,NJU Documents\抖音数据分析ppt\歌词\人的这一生.txt,negative,0.1824,0.8176,37,22,8
+177,NJU Documents\抖音数据分析ppt\歌词\人间 (片段).txt,positive,0.9932,0.0067,4,2,1
+178,NJU Documents\抖音数据分析ppt\歌词\今夜我一个人醉.txt,positive,0.9886,0.0114,39,29,11
+179,NJU Documents\抖音数据分析ppt\歌词\今生最爱.txt,negative,0.1475,0.8525,93,22,10
+180,"NJU Documents\抖音数据分析ppt\歌词\以前打扰了,以后不会了 (DJ版).txt",negative,0.0281,0.9719,81,20,8
+181,NJU Documents\抖音数据分析ppt\歌词\伟大的肩膀.txt,negative,0.042,0.958,157,41,31
+182,NJU Documents\抖音数据分析ppt\歌词\体面.txt,negative,0.1584,0.8416,76,25,11
+183,NJU Documents\抖音数据分析ppt\歌词\你好坏哦 我好喜欢.txt,positive,0.8287,0.1712,3,2,0
+184,NJU Documents\抖音数据分析ppt\歌词\你懂得 (片段).txt,positive,0.9838,0.0162,11,3,4
+185,NJU Documents\抖音数据分析ppt\歌词\你是上天给我的礼物 (DJ何鹏版).txt,positive,0.9124,0.0876,80,17,7
+186,NJU Documents\抖音数据分析ppt\歌词\你是人间四月天.txt,positive,0.9963,0.0037,52,26,6
+187,NJU Documents\抖音数据分析ppt\歌词\你是我唯一的执着 (片段).txt,positive,0.7717,0.2283,73,15,7
+188,NJU Documents\抖音数据分析ppt\歌词\你是空你是空.txt,negative,0.129,0.871,30,9,4
+189,NJU Documents\抖音数据分析ppt\歌词\你的万水千山 (DJ沈念版).txt,negative,0.0241,0.9759,50,12,19
+190,NJU Documents\抖音数据分析ppt\歌词\你的样子 (片段).txt,positive,0.9932,0.0067,4,2,1
+191,NJU Documents\抖音数据分析ppt\歌词\你的样子.txt,positive,0.67,0.33,62,52,15
+192,NJU Documents\抖音数据分析ppt\歌词\你的答案.txt,positive,0.9053,0.0947,60,40,11
+193,NJU Documents\抖音数据分析ppt\歌词\你莫走 (DJ版).txt,positive,0.7778,0.2222,60,45,2
+194,NJU Documents\抖音数据分析ppt\歌词\你莫走.txt,positive,0.5930,0.4069,0,3,0
+195,NJU Documents\抖音数据分析ppt\歌词\你说.txt,negative,0.1144,0.8856,56,17,15
+196,NJU Documents\抖音数据分析ppt\歌词\做个勇敢的⼩朋友.txt,negative,0.3464,0.6536,28,9,5
+197,NJU Documents\抖音数据分析ppt\歌词\僕が死のうと思ったのは.txt,negative,0.0588,0.9412,44,19,3
+198,NJU Documents\抖音数据分析ppt\歌词\儿时.txt,positive,0.9278,0.0722,48,54,7
+199,NJU Documents\抖音数据分析ppt\歌词\兜圈 (片段).txt,positive,0.7848,0.2151,0,1,0
+200,NJU Documents\抖音数据分析ppt\歌词\入骨相思谁人懂.txt,positive,0.5731,0.4269,68,36,5
+201,NJU Documents\抖音数据分析ppt\歌词\兰亭序.txt,negative,0.252,0.748,60,32,8
+202,NJU Documents\抖音数据分析ppt\歌词\关于小熊.txt,positive,0.945,0.055,127,77,20
+203,NJU Documents\抖音数据分析ppt\歌词\其实我想说的还有很多.txt,negative,0.3686,0.6314,77,28,13
+204,NJU Documents\抖音数据分析ppt\歌词\再度重相逢.txt,positive,0.9893,0.0107,27,12,16
+205,NJU Documents\抖音数据分析ppt\歌词\冬眠.txt,negative,0.0599,0.9401,53,21,6
+206,NJU Documents\抖音数据分析ppt\歌词\冲动的惩罚.txt,negative,0.0275,0.9725,142,51,20
+207,NJU Documents\抖音数据分析ppt\歌词\凉凉.txt,negative,0.4175,0.5825,54,37,11
+208,NJU Documents\抖音数据分析ppt\歌词\凤凰展翅 (DJ小黑版).txt,positive,0.99,0.01,71,53,5
+209,NJU Documents\抖音数据分析ppt\歌词\凤凰花开的路口.txt,positive,0.9939,0.0061,50,34,6
+210,NJU Documents\抖音数据分析ppt\歌词\凤舞九天 (DJ版).txt,negative,0.5,0.5,0,0,0
+211,NJU Documents\抖音数据分析ppt\歌词\别知己 (三步踩版).txt,positive,0.7558,0.2442,74,18,2
+212,NJU Documents\抖音数据分析ppt\歌词\到底要怎么样.txt,negative,0.0077,0.9923,110,42,23
+213,NJU Documents\抖音数据分析ppt\歌词\劳作的春夏秋2.txt,positive,0.9932,0.0067,4,2,1
+214,NJU Documents\抖音数据分析ppt\歌词\包容.txt,positive,0.7248,0.2752,91,13,6
+215,NJU Documents\抖音数据分析ppt\歌词\匆匆那年.txt,negative,0.0132,0.9868,81,22,17
+216,NJU Documents\抖音数据分析ppt\歌词\千与千寻 主题曲《いつも何度でも》.txt,positive,0.599,0.401,48,28,6
+217,NJU Documents\抖音数据分析ppt\歌词\单车.txt,positive,0.9575,0.0425,76,21,7
+218,NJU Documents\抖音数据分析ppt\歌词\卡农 (浪潮版).txt,positive,0.9932,0.0067,4,2,1
+219,NJU Documents\抖音数据分析ppt\歌词\口是心非.txt,positive,0.7161,0.2839,36,29,11
+220,NJU Documents\抖音数据分析ppt\歌词\只宠你一人.txt,positive,0.9863,0.0137,57,34,18
+221,NJU Documents\抖音数据分析ppt\歌词\只对你说 (片段).txt,positive,1.0,0.0,40,21,3
+222,NJU Documents\抖音数据分析ppt\歌词\只要为你活一天.txt,positive,0.9932,0.0067,4,2,1
+223,NJU Documents\抖音数据分析ppt\歌词\只要你过得比我好.txt,positive,0.8892,0.1108,61,19,51
+224,NJU Documents\抖音数据分析ppt\歌词\只要有你.txt,positive,0.9554,0.0446,73,50,16
+225,NJU Documents\抖音数据分析ppt\歌词\可不可以.txt,positive,0.9713,0.0287,81,22,10
+226,NJU Documents\抖音数据分析ppt\歌词\可愛くなりたい (想变得可爱).txt,negative,0.0733,0.9267,27,10,10
+227,NJU Documents\抖音数据分析ppt\歌词\同样.txt,positive,0.9378,0.0622,116,54,15
+228,NJU Documents\抖音数据分析ppt\歌词\后.txt,negative,0.1645,0.8355,49,26,11
+229,NJU Documents\抖音数据分析ppt\歌词\后来 (大合唱版).txt,positive,0.9896,0.0103,0,1,0
+230,NJU Documents\抖音数据分析ppt\歌词\后来.txt,positive,0.9512,0.0488,70,27,12
+231,NJU Documents\抖音数据分析ppt\歌词\君を忘れてた.txt,positive,0.9932,0.0067,4,2,1
+232,NJU Documents\抖音数据分析ppt\歌词\听妈妈的话.txt,positive,0.9682,0.0318,140,62,19
+233,NJU Documents\抖音数据分析ppt\歌词\呼吸决定 (女声版片段).txt,negative,0.1281,0.8719,32,7,3
+234,NJU Documents\抖音数据分析ppt\歌词\呼吸决定.txt,negative,0.1281,0.8719,32,7,3
+235,NJU Documents\抖音数据分析ppt\歌词\哒嗯哒嗯+大大大 (DJ版).txt,positive,0.9932,0.0067,4,2,1
+236,NJU Documents\抖音数据分析ppt\歌词\哦哈哟欧尼酱.txt,positive,0.9932,0.0067,4,2,1
+237,NJU Documents\抖音数据分析ppt\歌词\哭砂 (钢琴版).txt,positive,0.9932,0.0067,4,2,1
+238,NJU Documents\抖音数据分析ppt\歌词\哭砂.txt,negative,0.3859,0.6141,84,20,8
+239,NJU Documents\抖音数据分析ppt\歌词\喜悦.txt,positive,0.9971,0.0029,23,20,5
+240,NJU Documents\抖音数据分析ppt\歌词\喜欢你.txt,positive,0.995,0.005,66,25,4
+241,NJU Documents\抖音数据分析ppt\歌词\嗯哒嗯哒 (完整原版).txt,positive,0.9682,0.0317,4,2,0
+242,NJU Documents\抖音数据分析ppt\歌词\嚣张 (DJ弹鼓版).txt,positive,0.8287,0.1712,3,2,0
+243,NJU Documents\抖音数据分析ppt\歌词\嚣张 (片段).txt,negative,0.0123,0.9877,15,7,2
+244,NJU Documents\抖音数据分析ppt\歌词\嚣张.txt,negative,0.0069,0.9931,73,33,15
+245,NJU Documents\抖音数据分析ppt\歌词\四块五.txt,negative,0.0438,0.9562,45,30,11
+246,NJU Documents\抖音数据分析ppt\歌词\回到夏天 (片段).txt,negative,0.1942,0.8058,57,29,12
+247,NJU Documents\抖音数据分析ppt\歌词\回家的路 (完整版).txt,positive,0.9932,0.0067,4,2,1
+248,NJU Documents\抖音数据分析ppt\歌词\园游会.txt,positive,0.9948,0.0052,72,55,10
+249,NJU Documents\抖音数据分析ppt\歌词\国王与乞丐.txt,negative,0.4355,0.5645,28,9,10
+250,NJU Documents\抖音数据分析ppt\歌词\圣诞前夜.txt,positive,0.9932,0.0067,4,2,1
+251,NJU Documents\抖音数据分析ppt\歌词\坦坦荡荡活人间.txt,positive,0.9557,0.0443,61,43,22
+252,NJU Documents\抖音数据分析ppt\歌词\堆积情感.txt,positive,0.956,0.044,76,28,5
+253,NJU Documents\抖音数据分析ppt\歌词\墨尔本的翡翠 (Live片段).txt,positive,0.5047,0.4953,92,43,21
+254,NJU Documents\抖音数据分析ppt\歌词\处处吻 (正式版).txt,positive,0.9743,0.0257,104,49,16
+255,NJU Documents\抖音数据分析ppt\歌词\处处吻.txt,positive,0.9798,0.0202,91,44,14
+256,NJU Documents\抖音数据分析ppt\歌词\夏天的风.txt,positive,0.8787,0.1213,65,58,10
+257,NJU Documents\抖音数据分析ppt\歌词\夏日炎炎有你超甜 (完整原版片段).txt,positive,0.6228,0.3772,15,6,6
+258,NJU Documents\抖音数据分析ppt\歌词\夏日炎炎有你超甜.txt,positive,0.6228,0.3772,15,6,6
+259,NJU Documents\抖音数据分析ppt\歌词\夜嗨旋律 (Remix).txt,positive,0.9932,0.0067,4,2,1
+260,NJU Documents\抖音数据分析ppt\歌词\大団円.txt,positive,0.9852,0.0148,41,62,6
+261,NJU Documents\抖音数据分析ppt\歌词\大城小爱.txt,positive,0.8999,0.1001,75,22,24
+262,NJU Documents\抖音数据分析ppt\歌词\大天蓬.txt,negative,0.0403,0.9597,52,25,9
+263,NJU Documents\抖音数据分析ppt\歌词\大王叫我来巡山.txt,positive,0.9829,0.0171,66,61,7
+264,NJU Documents\抖音数据分析ppt\歌词\大眼睛.txt,negative,0.0723,0.9277,48,13,18
+265,NJU Documents\抖音数据分析ppt\歌词\大笨钟 (片段).txt,negative,0.2878,0.7122,12,7,3
+266,NJU Documents\抖音数据分析ppt\歌词\大笨钟.txt,negative,0.0126,0.9874,83,34,15
+267,NJU Documents\抖音数据分析ppt\歌词\天之大.txt,positive,0.9847,0.0153,33,27,12
+268,NJU Documents\抖音数据分析ppt\歌词\天也不懂情.txt,positive,0.9631,0.0369,64,43,14
+269,NJU Documents\抖音数据分析ppt\歌词\太迟.txt,positive,0.8909,0.1091,66,44,8
+270,NJU Documents\抖音数据分析ppt\歌词\太阳.txt,positive,0.5163,0.4837,66,31,11
+271,NJU Documents\抖音数据分析ppt\歌词\失而复得.txt,negative,0.2098,0.7902,82,34,12
+272,NJU Documents\抖音数据分析ppt\歌词\奥利给.txt,positive,0.9932,0.0067,4,2,1
+273,NJU Documents\抖音数据分析ppt\歌词\女孩子都是神明掉人间的可爱鬼 (Remix).txt,positive,0.9932,0.0067,4,2,1
+274,NJU Documents\抖音数据分析ppt\歌词\她说 (Live).txt,positive,0.8938,0.1062,79,22,21
+275,NJU Documents\抖音数据分析ppt\歌词\好久不见.txt,positive,0.8222,0.1778,52,22,1
+276,NJU Documents\抖音数据分析ppt\歌词\好人好梦.txt,positive,0.9964,0.0036,40,29,15
+277,NJU Documents\抖音数据分析ppt\歌词\好喜欢你.txt,positive,0.9982,0.0018,70,34,28
+278,NJU Documents\抖音数据分析ppt\歌词\如果我变成回忆.txt,positive,0.8853,0.1147,79,28,12
+279,NJU Documents\抖音数据分析ppt\歌词\如果这就是爱情.txt,negative,0.0127,0.9873,82,15,17
+280,NJU Documents\抖音数据分析ppt\歌词\如风过境.txt,positive,0.5197,0.4803,73,17,8
+281,NJU Documents\抖音数据分析ppt\歌词\妹妹你等着我.txt,positive,0.9852,0.0148,41,62,6
+282,NJU Documents\抖音数据分析ppt\歌词\孤单坠爱 (DJ版).txt,positive,0.9603,0.0396,3,2,0
+283,NJU Documents\抖音数据分析ppt\歌词\孤芳自赏 (改编版).txt,positive,0.9128,0.0872,71,41,9
+284,NJU Documents\抖音数据分析ppt\歌词\孤芳自赏 (电摇版).txt,positive,0.9283,0.0717,77,42,9
+285,NJU Documents\抖音数据分析ppt\歌词\孤芳自赏.txt,positive,0.902,0.098,73,38,11
+286,NJU Documents\抖音数据分析ppt\歌词\宠护.txt,positive,0.9663,0.0337,116,36,16
+287,NJU Documents\抖音数据分析ppt\歌词\容我自救.txt,positive,0.9932,0.0067,4,2,1
+288,NJU Documents\抖音数据分析ppt\歌词\对手 (Live片段).txt,positive,0.599,0.401,48,28,6
+289,NJU Documents\抖音数据分析ppt\歌词\对面的小姐姐 (完整DJ原版).txt,negative,0.4046,0.5954,33,18,12
+290,NJU Documents\抖音数据分析ppt\歌词\对面的小姐姐.txt,positive,0.86,0.14,51,26,14
+291,NJU Documents\抖音数据分析ppt\歌词\小半 (Live).txt,negative,0.0275,0.9725,90,25,35
+292,NJU Documents\抖音数据分析ppt\歌词\小宇 (片段).txt,positive,0.8984,0.1016,19,7,1
+293,NJU Documents\抖音数据分析ppt\歌词\小幸运.txt,positive,0.9927,0.0073,76,31,12
+294,NJU Documents\抖音数据分析ppt\歌词\小星星 (片段).txt,positive,0.9999,9.9920,30,12,6
+295,NJU Documents\抖音数据分析ppt\歌词\小星星.txt,positive,0.5432,0.4568,25,24,9
+296,NJU Documents\抖音数据分析ppt\歌词\小行囊.txt,positive,0.913,0.087,19,25,4
+297,NJU Documents\抖音数据分析ppt\歌词\小鹿乱撞.txt,positive,0.9635,0.0365,69,15,17
+298,NJU Documents\抖音数据分析ppt\歌词\少女的祈祷.txt,positive,0.778,0.222,66,27,7
+299,NJU Documents\抖音数据分析ppt\歌词\少年.txt,positive,0.9854,0.0146,78,41,10
+300,NJU Documents\抖音数据分析ppt\歌词\就这.txt,positive,0.9932,0.0067,4,2,1
+301,NJU Documents\抖音数据分析ppt\歌词\布谷鸟.txt,positive,0.9572,0.0428,55,38,23
+302,NJU Documents\抖音数据分析ppt\歌词\干啥呢 (DJ版).txt,negative,0.0023,0.9977,84,34,17
+303,NJU Documents\抖音数据分析ppt\歌词\年轮.txt,positive,0.5552,0.4448,51,31,4
+304,NJU Documents\抖音数据分析ppt\歌词\广寒宫.txt,positive,0.8784,0.1216,46,32,14
+305,NJU Documents\抖音数据分析ppt\歌词\当你.txt,positive,0.5635,0.4365,114,13,13
+306,NJU Documents\抖音数据分析ppt\歌词\往事如烟 (DJ版) (改编版).txt,positive,1.0,0.0,73,52,12
+307,NJU Documents\抖音数据分析ppt\歌词\微微.txt,positive,0.9932,0.0067,4,2,1
+308,NJU Documents\抖音数据分析ppt\歌词\微笑吧 (DJ改版).txt,positive,0.9779,0.0221,145,79,20
+309,NJU Documents\抖音数据分析ppt\歌词\微笑吧 (DJ版).txt,positive,0.9764,0.0236,72,40,12
+310,NJU Documents\抖音数据分析ppt\歌词\微笑吧 (DJ版片段).txt,positive,0.9775,0.0225,73,40,12
+311,NJU Documents\抖音数据分析ppt\歌词\微笑吧 (女生版).txt,positive,0.9768,0.0232,74,47,13
+312,NJU Documents\抖音数据分析ppt\歌词\微笑吧.txt,positive,0.9836,0.0164,75,47,14
+313,NJU Documents\抖音数据分析ppt\歌词\心上人呀.txt,positive,0.9371,0.0629,49,33,6
+314,NJU Documents\抖音数据分析ppt\歌词\心墙 (片段).txt,positive,0.9821,0.0179,13,7,3
+315,NJU Documents\抖音数据分析ppt\歌词\快手刘叉叉背景曲子.txt,positive,0.9932,0.0067,4,2,1
+316,NJU Documents\抖音数据分析ppt\歌词\快速换装.txt,negative,0.5,0.5,0,0,0
+317,NJU Documents\抖音数据分析ppt\歌词\忽然之间 口琴.txt,positive,0.9932,0.0067,4,2,1
+318,NJU Documents\抖音数据分析ppt\歌词\怎么说我不爱你.txt,negative,0.0221,0.9779,84,16,13
+319,NJU Documents\抖音数据分析ppt\歌词\恋人心.txt,negative,0.0182,0.9818,45,27,4
+320,NJU Documents\抖音数据分析ppt\歌词\恨在今天再相遇.txt,negative,0.0905,0.9095,68,16,12
+321,NJU Documents\抖音数据分析ppt\歌词\情人.txt,positive,0.7534,0.2466,49,28,16
+322,NJU Documents\抖音数据分析ppt\歌词\情人知己 (片段).txt,negative,0.2691,0.7309,83,29,8
+323,NJU Documents\抖音数据分析ppt\歌词\情人知己.txt,negative,0.0881,0.9119,80,26,8
+324,NJU Documents\抖音数据分析ppt\歌词\情歌虽老却动听.txt,positive,0.9841,0.0159,53,26,24
+325,NJU Documents\抖音数据分析ppt\歌词\情深深雨濛濛.txt,negative,0.4787,0.5213,42,42,14
+326,NJU Documents\抖音数据分析ppt\歌词\情花几时开 (DJheap九天版).txt,negative,0.4046,0.5954,71,52,0
+327,NJU Documents\抖音数据分析ppt\歌词\情花几时开.txt,negative,0.3202,0.6798,69,47,0
+328,NJU Documents\抖音数据分析ppt\歌词\情难渡.txt,negative,0.3937,0.6063,58,32,13
+329,NJU Documents\抖音数据分析ppt\歌词\惊雷.txt,positive,0.8623,0.1377,80,79,19
+330,NJU Documents\抖音数据分析ppt\歌词\想你的人没有睡.txt,positive,0.9872,0.0128,32,26,10
+331,NJU Documents\抖音数据分析ppt\歌词\想让全世界知道我爱你 (mix).txt,positive,0.6972,0.3028,90,26,6
+332,NJU Documents\抖音数据分析ppt\歌词\想让全世界知道我爱你.txt,positive,0.7805,0.2195,67,18,4
+333,NJU Documents\抖音数据分析ppt\歌词\感官先生 (片段).txt,negative,0.0147,0.9853,79,35,21
+334,NJU Documents\抖音数据分析ppt\歌词\感官先生.txt,negative,0.0147,0.9853,79,35,21
+335,NJU Documents\抖音数据分析ppt\歌词\感谢.txt,positive,0.9979,0.0021,67,46,17
+336,NJU Documents\抖音数据分析ppt\歌词\感谢缘分让我们相遇.txt,positive,0.9893,0.0107,27,12,16
+337,NJU Documents\抖音数据分析ppt\歌词\愿得一人心 (钢琴版).txt,positive,0.9932,0.0067,4,2,1
+338,NJU Documents\抖音数据分析ppt\歌词\愿得一人心.txt,positive,0.9585,0.0415,77,64,22
+339,NJU Documents\抖音数据分析ppt\歌词\成都.txt,positive,0.9812,0.0188,73,30,12
+340,NJU Documents\抖音数据分析ppt\歌词\我从草原来 (Live片段).txt,positive,0.9883,0.0117,75,61,14
+341,NJU Documents\抖音数据分析ppt\歌词\我原以为 (片段).txt,positive,0.9339,0.0661,26,9,6
+342,NJU Documents\抖音数据分析ppt\歌词\我和你.txt,positive,0.9415,0.0585,49,39,7
+343,NJU Documents\抖音数据分析ppt\歌词\我在你眼里到底算什么 (Live片段).txt,negative,0.0354,0.9646,52,34,10
+344,NJU Documents\抖音数据分析ppt\歌词\我多想回到那个夏天.txt,positive,0.9932,0.0067,4,2,1
+345,NJU Documents\抖音数据分析ppt\歌词\我应该去爱你 (DJ版).txt,positive,0.9932,0.0067,4,2,1
+346,NJU Documents\抖音数据分析ppt\歌词\我应该去爱你.txt,positive,0.9888,0.0112,93,27,10
+347,NJU Documents\抖音数据分析ppt\歌词\我怎么这么好看.txt,positive,0.7855,0.2145,70,19,20
+348,NJU Documents\抖音数据分析ppt\歌词\我想更懂你.txt,positive,0.8617,0.1383,166,39,9
+349,NJU Documents\抖音数据分析ppt\歌词\我是云南小姑娘.txt,positive,0.9976,0.0024,87,30,4
+350,NJU Documents\抖音数据分析ppt\歌词\我爱他.txt,positive,0.9855,0.0145,70,22,20
+351,NJU Documents\抖音数据分析ppt\歌词\我爱你不问归期 (片段).txt,positive,0.815,0.185,86,38,4
+352,NJU Documents\抖音数据分析ppt\歌词\我爱你不问归期.txt,positive,0.815,0.185,86,38,4
+353,NJU Documents\抖音数据分析ppt\歌词\我的天空 (加长版).txt,positive,0.9944,0.0056,92,49,13
+354,NJU Documents\抖音数据分析ppt\歌词\我的天空.txt,positive,0.9944,0.0056,92,49,13
+355,NJU Documents\抖音数据分析ppt\歌词\我的快乐就是想你.txt,positive,0.9966,0.0034,78,28,16
+356,NJU Documents\抖音数据分析ppt\歌词\战斗.txt,positive,0.9886,0.0114,42,30,14
+357,NJU Documents\抖音数据分析ppt\歌词\所有精神小伙听令.txt,negative,0.0619,0.9381,16,17,4
+358,NJU Documents\抖音数据分析ppt\歌词\抖音最火换装卡点 (抖音完整原版).txt,positive,0.9932,0.0067,4,2,1
+359,NJU Documents\抖音数据分析ppt\歌词\抖音最火换装卡点.txt,positive,0.9932,0.0067,4,2,1
+360,NJU Documents\抖音数据分析ppt\歌词\拜拜.txt,negative,0.0658,0.9342,111,36,4
+361,NJU Documents\抖音数据分析ppt\歌词\捉泥鳅 (Live).txt,positive,0.9717,0.0283,41,44,37
+362,NJU Documents\抖音数据分析ppt\歌词\放手一搏 (DJ版).txt,positive,0.9719,0.0281,69,87,22
+363,NJU Documents\抖音数据分析ppt\歌词\新壶中天.txt,positive,0.9784,0.0216,37,49,7
+364,NJU Documents\抖音数据分析ppt\歌词\新欢渡旧爱 (DJ69、DJ肖涵、DJ沈子凡、DJ虞姬版).txt,negative,0.2214,0.7786,79,13,36
+365,NJU Documents\抖音数据分析ppt\歌词\新疆味道.txt,positive,0.7966,0.2034,79,49,12
+366,NJU Documents\抖音数据分析ppt\歌词\无人之岛.txt,positive,0.9481,0.0519,94,62,13
+367,NJU Documents\抖音数据分析ppt\歌词\无情的谎言.txt,negative,0.0417,0.9583,38,6,12
+368,NJU Documents\抖音数据分析ppt\歌词\无言的结局.txt,negative,0.1639,0.8361,86,12,0
+369,NJU Documents\抖音数据分析ppt\歌词\旧梦一场 (DJ版).txt,positive,0.7534,0.2466,31,26,18
+370,NJU Documents\抖音数据分析ppt\歌词\旧梦一场.txt,positive,0.5527,0.4473,28,21,16
+371,NJU Documents\抖音数据分析ppt\歌词\星光背后 (片段).txt,negative,0.0413,0.9587,52,24,17
+372,NJU Documents\抖音数据分析ppt\歌词\星光背后.txt,negative,0.0413,0.9587,52,24,17
+373,NJU Documents\抖音数据分析ppt\歌词\星月糖 (片段).txt,positive,0.9321,0.0679,44,35,9
+374,NJU Documents\抖音数据分析ppt\歌词\星月糖.txt,positive,0.9321,0.0679,44,35,9
+375,NJU Documents\抖音数据分析ppt\歌词\晚安 (DJ浪子康、DJ豪大大版).txt,positive,0.8287,0.1712,3,2,0
+376,NJU Documents\抖音数据分析ppt\歌词\晚安.txt,positive,0.5958,0.4042,82,30,15
+377,NJU Documents\抖音数据分析ppt\歌词\暗里着迷.txt,positive,0.6249,0.3751,73,36,10
+378,NJU Documents\抖音数据分析ppt\歌词\最后最后还是放开了手 (完整原版).txt,negative,0.0157,0.9843,30,14,10
+379,NJU Documents\抖音数据分析ppt\歌词\最快换装舞 (DJ版).txt,positive,0.9932,0.0067,4,2,1
+380,NJU Documents\抖音数据分析ppt\歌词\最快换装舞.txt,positive,0.9932,0.0067,4,2,1
+381,NJU Documents\抖音数据分析ppt\歌词\最最.txt,positive,0.9848,0.0152,60,22,11
+382,NJU Documents\抖音数据分析ppt\歌词\最炫旗袍秀.txt,positive,0.9867,0.0133,66,28,29
+383,NJU Documents\抖音数据分析ppt\歌词\最美的伤口.txt,positive,0.945,0.055,63,40,14
+384,NJU Documents\抖音数据分析ppt\歌词\月牙湾.txt,positive,0.992,0.008,56,33,8
+385,NJU Documents\抖音数据分析ppt\歌词\有什么可惜（烟嗓版）.txt,negative,0.254,0.746,108,40,9
+386,NJU Documents\抖音数据分析ppt\歌词\有何不可.txt,positive,0.7335,0.2665,93,45,18
+387,NJU Documents\抖音数据分析ppt\歌词\有你的快乐 (片段).txt,negative,0.4162,0.5838,62,20,14
+388,NJU Documents\抖音数据分析ppt\歌词\有多少 (DJ版).txt,positive,0.7202,0.2798,89,30,3
+389,NJU Documents\抖音数据分析ppt\歌词\有点甜.txt,positive,0.9913,0.0087,92,49,11
+390,NJU Documents\抖音数据分析ppt\歌词\未来式情歌 (片段).txt,positive,0.9849,0.0151,69,29,8
+391,NJU Documents\抖音数据分析ppt\歌词\来吧展示.txt,negative,0.0564,0.9436,29,19,0
+392,NJU Documents\抖音数据分析ppt\歌词\来给生活比个耶 (全网热播版).txt,positive,0.8287,0.1712,3,2,0
+393,NJU Documents\抖音数据分析ppt\歌词\来给生活比个耶.txt,negative,0.017,0.983,48,12,17
+394,NJU Documents\抖音数据分析ppt\歌词\杨花落尽子规啼.txt,positive,0.7392,0.2608,33,26,2
+395,NJU Documents\抖音数据分析ppt\歌词\极限上头Wake up.txt,positive,0.9932,0.0067,4,2,1
+396,NJU Documents\抖音数据分析ppt\歌词\枉凝眉.txt,positive,0.9167,0.0833,13,4,2
+397,NJU Documents\抖音数据分析ppt\歌词\某人.txt,negative,0.3278,0.6722,63,28,8
+398,NJU Documents\抖音数据分析ppt\歌词\柴 鱼 の c a l l i n g.txt,positive,0.58,0.42,4,2,2
+399,NJU Documents\抖音数据分析ppt\歌词\根本你不懂得爱我.txt,negative,0.0094,0.9906,114,15,25
+400,NJU Documents\抖音数据分析ppt\歌词\桃花朵朵开.txt,positive,0.9878,0.0122,57,28,4
+401,NJU Documents\抖音数据分析ppt\歌词\桃花笑.txt,positive,0.9703,0.0297,65,27,11
+402,NJU Documents\抖音数据分析ppt\歌词\梁祝 (钢琴演奏版Live).txt,positive,0.9932,0.0067,4,2,1
+403,NJU Documents\抖音数据分析ppt\歌词\梅花泪 (并四版).txt,negative,0.0685,0.9315,30,24,7
+404,NJU Documents\抖音数据分析ppt\歌词\梦中有你.txt,positive,0.9907,0.0093,51,25,2
+405,NJU Documents\抖音数据分析ppt\歌词\欢喜就好 (DJ在忠、DJ河源小天版).txt,positive,0.8287,0.1712,3,2,0
+406,NJU Documents\抖音数据分析ppt\歌词\欢喜就好.txt,positive,0.7261,0.2739,68,29,32
+407,NJU Documents\抖音数据分析ppt\歌词\此情一直在心间.txt,positive,0.9861,0.0139,42,26,11
+408,NJU Documents\抖音数据分析ppt\歌词\毛不易《像我这样的人》就不用借酒《消愁》啦《二零三》.txt,positive,0.8708,0.1292,41,17,9
+409,NJU Documents\抖音数据分析ppt\歌词\水墨丹青.txt,positive,0.9634,0.0366,70,87,22
+410,NJU Documents\抖音数据分析ppt\歌词\沉默是金 (合唱版本).txt,negative,0.0529,0.9471,64,18,17
+411,NJU Documents\抖音数据分析ppt\歌词\没攒一分钱 (DJ版片段).txt,negative,0.4771,0.5229,21,26,3
+412,NJU Documents\抖音数据分析ppt\歌词\没有你陪伴真的好孤单.txt,positive,0.8316,0.1684,62,22,37
+413,NJU Documents\抖音数据分析ppt\歌词\没有喝够.txt,positive,0.9348,0.0652,39,32,4
+414,NJU Documents\抖音数据分析ppt\歌词\泡沫.txt,negative,0.0972,0.9028,47,29,23
+415,NJU Documents\抖音数据分析ppt\歌词\洪荒之力 (改版).txt,positive,0.9932,0.0067,4,2,1
+416,NJU Documents\抖音数据分析ppt\歌词\洪荒之力.txt,positive,0.9932,0.0067,4,2,1
+417,NJU Documents\抖音数据分析ppt\歌词\浪子回头.txt,positive,0.5703,0.4297,32,32,10
+418,NJU Documents\抖音数据分析ppt\歌词\海阔天空 (Remix).txt,positive,0.9874,0.0126,67,23,3
+419,NJU Documents\抖音数据分析ppt\歌词\海阔天空.txt,positive,0.9874,0.0126,67,23,3
+420,NJU Documents\抖音数据分析ppt\歌词\深深深深 (Remix).txt,positive,0.9932,0.0067,4,2,1
+421,NJU Documents\抖音数据分析ppt\歌词\渡情 (加快版DJ).txt,positive,0.9897,0.0103,37,15,4
+422,NJU Documents\抖音数据分析ppt\歌词\漂洋过海来看你 (DJ版).txt,positive,0.9414,0.0586,66,22,8
+423,NJU Documents\抖音数据分析ppt\歌词\漂洋过海来看你 (Remix).txt,positive,0.9383,0.0617,59,25,6
+424,NJU Documents\抖音数据分析ppt\歌词\漂洋过海来看你.txt,positive,0.9627,0.0373,86,27,10
+425,NJU Documents\抖音数据分析ppt\歌词\漫步人生路.txt,positive,0.9889,0.0111,48,20,14
+426,NJU Documents\抖音数据分析ppt\歌词\潇湘子.txt,positive,0.9932,0.0067,4,2,1
+427,NJU Documents\抖音数据分析ppt\歌词\火影卡点.txt,positive,0.9932,0.0067,4,2,1
+428,NJU Documents\抖音数据分析ppt\歌词\火红的萨日朗.txt,positive,0.9948,0.0052,59,53,50
+429,NJU Documents\抖音数据分析ppt\歌词\灰姑娘.txt,negative,0.3913,0.6087,35,13,11
+430,NJU Documents\抖音数据分析ppt\歌词\点歌的人 (片段).txt,positive,0.9266,0.0734,38,20,6
+431,NJU Documents\抖音数据分析ppt\歌词\点歌的人.txt,positive,0.9376,0.0624,36,18,4
+432,NJU Documents\抖音数据分析ppt\歌词\烟雨江南.txt,positive,0.9874,0.0126,22,22,10
+433,NJU Documents\抖音数据分析ppt\歌词\烟雨蒙蒙.txt,positive,0.9239,0.0761,18,18,6
+434,NJU Documents\抖音数据分析ppt\歌词\热火斯卡拉.txt,positive,0.8287,0.1712,3,2,0
+435,NJU Documents\抖音数据分析ppt\歌词\爱上一朵花.txt,positive,0.9732,0.0268,83,51,15
+436,NJU Documents\抖音数据分析ppt\歌词\爱丫爱丫 (慢摇版).txt,negative,0.3653,0.6347,67,17,11
+437,NJU Documents\抖音数据分析ppt\歌词\爱久了才会懂.txt,positive,0.9962,0.0038,87,26,12
+438,NJU Documents\抖音数据分析ppt\歌词\爱出发.txt,positive,0.8802,0.1198,94,48,12
+439,NJU Documents\抖音数据分析ppt\歌词\爱情主演 (DJ何鹏版).txt,positive,0.9585,0.0415,88,60,1
+440,NJU Documents\抖音数据分析ppt\歌词\爱情啊.txt,positive,0.9685,0.0315,48,27,3
+441,NJU Documents\抖音数据分析ppt\歌词\爱情的故事.txt,positive,0.8887,0.1113,41,25,9
+442,NJU Documents\抖音数据分析ppt\歌词\爱情里没有谁对谁错.txt,negative,0.0913,0.9087,86,14,5
+443,NJU Documents\抖音数据分析ppt\歌词\爱情错觉 (片段).txt,positive,0.9876,0.0124,53,29,11
+444,NJU Documents\抖音数据分析ppt\歌词\爱情错觉.txt,positive,0.9827,0.0173,82,32,14
+445,NJU Documents\抖音数据分析ppt\歌词\爱拼才会赢.txt,negative,0.4516,0.5484,67,19,0
+446,NJU Documents\抖音数据分析ppt\歌词\爱江山更爱美人.txt,negative,0.4965,0.5035,47,36,12
+447,NJU Documents\抖音数据分析ppt\歌词\爱的可能 (片段).txt,positive,0.9962,0.0038,19,10,0
+448,NJU Documents\抖音数据分析ppt\歌词\爱的可能.txt,positive,0.9959,0.0041,81,37,4
+449,NJU Documents\抖音数据分析ppt\歌词\爱的太深也是祸.txt,positive,0.6441,0.3559,80,28,11
+450,NJU Documents\抖音数据分析ppt\歌词\爱的魔法.txt,negative,0.3752,0.6248,107,29,16
+451,NJU Documents\抖音数据分析ppt\歌词\父亲写的散文诗 (时光版).txt,positive,0.9868,0.0132,53,46,10
+452,NJU Documents\抖音数据分析ppt\歌词\犯错.txt,negative,0.0036,0.9964,80,18,10
+453,NJU Documents\抖音数据分析ppt\歌词\玛卡巴卡.txt,positive,0.5794,0.4206,6,11,0
+454,NJU Documents\抖音数据分析ppt\歌词\田子坊.txt,positive,0.9948,0.0052,72,55,10
+455,NJU Documents\抖音数据分析ppt\歌词\男人女人都不醉 (DJ版).txt,positive,0.7397,0.2603,88,94,2
+456,NJU Documents\抖音数据分析ppt\歌词\男人绝不认输 (DJ版).txt,negative,0.0319,0.9681,68,49,8
+457,NJU Documents\抖音数据分析ppt\歌词\男人花 (片段).txt,positive,0.5992,0.4008,87,44,13
+458,NJU Documents\抖音数据分析ppt\歌词\画皮.txt,positive,0.953,0.047,96,57,13
+459,NJU Documents\抖音数据分析ppt\歌词\疯狂爱爱爱.txt,positive,0.6041,0.3959,123,32,7
+460,NJU Documents\抖音数据分析ppt\歌词\痴痴地等.txt,negative,0.439,0.561,55,13,20
+461,NJU Documents\抖音数据分析ppt\歌词\白天的月亮 (广场舞).txt,positive,0.9968,0.0032,72,34,12
+462,NJU Documents\抖音数据分析ppt\歌词\白狐.txt,positive,0.991,0.009,64,12,10
+463,NJU Documents\抖音数据分析ppt\歌词\百战成诗 (3燃情版) (含音效).txt,positive,0.9654,0.0346,168,115,34
+464,NJU Documents\抖音数据分析ppt\歌词\百花香 (DJ Candy版).txt,positive,0.8074,0.1925,0,1,0
+465,NJU Documents\抖音数据分析ppt\歌词\百花香 (DJ版).txt,positive,0.9926,0.0074,50,43,6
+466,NJU Documents\抖音数据分析ppt\歌词\百花香.txt,positive,0.9882,0.0118,49,41,6
+467,NJU Documents\抖音数据分析ppt\歌词\盗墓笔记·十年人间.txt,positive,0.9739,0.0261,59,38,30
+468,NJU Documents\抖音数据分析ppt\歌词\盘他.txt,negative,0.0488,0.9512,66,39,9
+469,NJU Documents\抖音数据分析ppt\歌词\相依为命.txt,negative,0.0143,0.9857,76,20,7
+470,NJU Documents\抖音数据分析ppt\歌词\相思.txt,positive,0.9968,0.0032,43,28,10
+471,NJU Documents\抖音数据分析ppt\歌词\真的不容易 (广场舞).txt,positive,0.9767,0.0233,60,20,14
+472,NJU Documents\抖音数据分析ppt\歌词\真的不容易.txt,positive,0.9767,0.0233,60,20,14
+473,NJU Documents\抖音数据分析ppt\歌词\瞬间的永恒 (钢琴曲).txt,positive,0.9932,0.0067,4,2,1
+474,NJU Documents\抖音数据分析ppt\歌词\知否知否.txt,negative,0.2102,0.7898,80,40,29
+475,NJU Documents\抖音数据分析ppt\歌词\知道不知道.txt,positive,0.9052,0.0948,41,19,3
+476,NJU Documents\抖音数据分析ppt\歌词\社会人专用DJ.txt,positive,0.6020,0.3979,0,1,0
+477,NJU Documents\抖音数据分析ppt\歌词\稻香.txt,positive,0.8485,0.1515,82,34,18
+478,NJU Documents\抖音数据分析ppt\歌词\空空如也.txt,positive,0.8846,0.1154,93,32,11
+479,NJU Documents\抖音数据分析ppt\歌词\童话.txt,positive,0.7178,0.2822,76,41,2
+480,NJU Documents\抖音数据分析ppt\歌词\笑看风云 (片段).txt,positive,0.8337,0.1663,62,17,5
+481,NJU Documents\抖音数据分析ppt\歌词\第131集 咖喱咖喱 一首快乐的小童谣.txt,negative,0.3182,0.6818,45,31,12
+482,NJU Documents\抖音数据分析ppt\歌词\第一次 (Live).txt,negative,0.2968,0.7032,36,11,5
+483,NJU Documents\抖音数据分析ppt\歌词\等风来 (Live).txt,positive,0.9466,0.0534,42,21,0
+484,NJU Documents\抖音数据分析ppt\歌词\等风来.txt,positive,0.9466,0.0534,42,21,0
+485,NJU Documents\抖音数据分析ppt\歌词\粉红情歌.txt,positive,0.6973,0.3027,89,22,18
+486,NJU Documents\抖音数据分析ppt\歌词\素颜.txt,positive,0.8846,0.1154,93,32,11
+487,NJU Documents\抖音数据分析ppt\歌词\紫霞仙子.txt,positive,0.9932,0.0067,4,2,1
+488,NJU Documents\抖音数据分析ppt\歌词\緊張.txt,positive,0.9891,0.0109,66,23,21
+489,NJU Documents\抖音数据分析ppt\歌词\美丽的神话.txt,positive,0.9923,0.0077,60,34,13
+490,NJU Documents\抖音数据分析ppt\歌词\胖子多棒 (女声版片段).txt,positive,0.944,0.056,12,6,6
+491,NJU Documents\抖音数据分析ppt\歌词\能被抢走的都是垃圾.txt,positive,0.9932,0.0067,4,2,1
+492,NJU Documents\抖音数据分析ppt\歌词\船歌.txt,positive,0.5915,0.4085,38,40,4
+493,NJU Documents\抖音数据分析ppt\歌词\花桥流水.txt,positive,0.951,0.049,59,49,9
+494,NJU Documents\抖音数据分析ppt\歌词\花海 (翻唱).txt,negative,0.2757,0.7243,19,7,0
+495,NJU Documents\抖音数据分析ppt\歌词\花灯游.txt,positive,0.857,0.143,34,28,11
+496,NJU Documents\抖音数据分析ppt\歌词\花都开了你来不来.txt,positive,0.9686,0.0314,56,21,8
+497,NJU Documents\抖音数据分析ppt\歌词\花雨落.txt,negative,0.4274,0.5726,48,41,14
+498,NJU Documents\抖音数据分析ppt\歌词\莫西莫西.txt,positive,0.9932,0.0067,4,2,1
+499,NJU Documents\抖音数据分析ppt\歌词\萨斯给.txt,positive,0.8666,0.1334,62,29,2
+500,NJU Documents\抖音数据分析ppt\歌词\蓝色海黑色河 (DJ版).txt,positive,0.6447,0.3553,50,30,2
+501,NJU Documents\抖音数据分析ppt\歌词\蓝色海黑色河+灰色轨迹.txt,positive,0.9932,0.0067,4,2,1
+502,NJU Documents\抖音数据分析ppt\歌词\蓝色海黑色河.txt,negative,0.2474,0.7526,48,46,2
+503,NJU Documents\抖音数据分析ppt\歌词\蔬菜沙拉.txt,positive,0.9897,0.0103,23,26,23
+504,NJU Documents\抖音数据分析ppt\歌词\蜗牛与黄鹂鸟 (DJ版片段).txt,positive,0.9139,0.0861,21,12,8
+505,NJU Documents\抖音数据分析ppt\歌词\蜗牛与黄鹂鸟.txt,positive,0.9637,0.0363,30,15,10
+506,NJU Documents\抖音数据分析ppt\歌词\被风吹过的夏天.txt,negative,0.091,0.909,69,48,16
+507,NJU Documents\抖音数据分析ppt\歌词\要爱你就来 (DJ版).txt,positive,0.9901,0.0099,117,30,11
+508,NJU Documents\抖音数据分析ppt\歌词\让我做你的眼睛 (弹鼓版)(DJ王雨笙版).txt,negative,0.091,0.909,69,48,16
+509,NJU Documents\抖音数据分析ppt\歌词\让我做你的眼睛 (热搜版)(DJ小猫多鱼版).txt,negative,0.1974,0.8026,91,49,15
+510,NJU Documents\抖音数据分析ppt\歌词\让我做你的眼睛.txt,negative,0.1974,0.8026,91,49,15
+511,NJU Documents\抖音数据分析ppt\歌词\许多年以后.txt,positive,0.5053,0.4947,75,19,7
+512,NJU Documents\抖音数据分析ppt\歌词\负心的你 (Live版片段).txt,negative,0.1034,0.8966,56,30,2
+513,NJU Documents\抖音数据分析ppt\歌词\赤伶 (DJ69、DJ虞姬版).txt,negative,0.1293,0.8707,58,29,12
+514,NJU Documents\抖音数据分析ppt\歌词\赤伶 (DJ耀仔版).txt,positive,0.6844,0.3156,93,43,12
+515,NJU Documents\抖音数据分析ppt\歌词\赤伶.txt,negative,0.0317,0.9683,60,36,13
+516,NJU Documents\抖音数据分析ppt\歌词\赤羚.txt,negative,0.0317,0.9683,60,36,13
+517,NJU Documents\抖音数据分析ppt\歌词\走江南.txt,positive,0.9081,0.0919,55,28,8
+518,NJU Documents\抖音数据分析ppt\歌词\走着走着花就开了.txt,positive,0.9747,0.0253,74,38,8
+519,NJU Documents\抖音数据分析ppt\歌词\超级喜欢你.txt,negative,0.1191,0.8809,110,43,16
+520,NJU Documents\抖音数据分析ppt\歌词\越南大鼓神节奏 (DJ版).txt,positive,0.8287,0.1712,3,2,0
+521,NJU Documents\抖音数据分析ppt\歌词\轻快.txt,positive,0.5678,0.4321,0,0,0
+522,NJU Documents\抖音数据分析ppt\歌词\远帆.txt,negative,0.2454,0.7546,21,20,9
+523,NJU Documents\抖音数据分析ppt\歌词\追梦人.txt,positive,0.9878,0.0122,51,36,7
+524,NJU Documents\抖音数据分析ppt\歌词\通天大道宽又阔.txt,negative,0.0567,0.9433,40,23,12
+525,NJU Documents\抖音数据分析ppt\歌词\遇见.txt,positive,0.9693,0.0307,50,21,9
+526,NJU Documents\抖音数据分析ppt\歌词\遥远的你 (片段).txt,positive,0.83,0.17,45,21,7
+527,NJU Documents\抖音数据分析ppt\歌词\遥远的你.txt,negative,0.1588,0.8412,66,20,13
+528,NJU Documents\抖音数据分析ppt\歌词\那些你很冒险的梦 (片段).txt,negative,0.0496,0.9504,18,7,2
+529,NJU Documents\抖音数据分析ppt\歌词\那时正好 (女生版).txt,positive,0.9874,0.0126,57,39,3
+530,NJU Documents\抖音数据分析ppt\歌词\那时正好.txt,positive,0.9898,0.0102,50,29,2
+531,NJU Documents\抖音数据分析ppt\歌词\酒吧气氛土嗨.txt,negative,0.5,0.5,0,0,0
+532,NJU Documents\抖音数据分析ppt\歌词\酒梦.txt,negative,0.2229,0.7771,47,48,7
+533,NJU Documents\抖音数据分析ppt\歌词\酒醉的蝴蝶 (DJ版).txt,negative,0.1648,0.8352,68,37,6
+534,NJU Documents\抖音数据分析ppt\歌词\酒醉的蝴蝶.txt,negative,0.1759,0.8241,49,32,5
+535,NJU Documents\抖音数据分析ppt\歌词\重庆婆婆做腊肉.txt,positive,0.9932,0.0067,4,2,1
+536,NJU Documents\抖音数据分析ppt\歌词\野孩子.txt,negative,0.1413,0.8587,80,32,11
+537,NJU Documents\抖音数据分析ppt\歌词\野狼disco (粤语版片段).txt,positive,0.7627,0.2373,156,82,21
+538,NJU Documents\抖音数据分析ppt\歌词\野狼disco.txt,positive,0.7627,0.2373,156,82,21
+539,NJU Documents\抖音数据分析ppt\歌词\错失风雅.txt,positive,0.9467,0.0533,66,35,19
+540,NJU Documents\抖音数据分析ppt\歌词\阳光彩虹小白马.txt,positive,0.9756,0.0244,118,31,62
+541,NJU Documents\抖音数据分析ppt\歌词\阳光总在风雨后.txt,positive,0.9953,0.0047,58,35,4
+542,NJU Documents\抖音数据分析ppt\歌词\阿果吉曲.txt,positive,0.949,0.051,41,21,15
+543,"NJU Documents\抖音数据分析ppt\歌词\阿米尔汗又火了!配上雷军的《Are you ok》,太魔性了!.txt",positive,0.6036,0.3963,0,0,1
+544,NJU Documents\抖音数据分析ppt\歌词\陷阱.txt,negative,0.0207,0.9793,53,20,9
+545,NJU Documents\抖音数据分析ppt\歌词\雪见·落入凡尘.txt,positive,0.9932,0.0067,4,2,1
+546,NJU Documents\抖音数据分析ppt\歌词\零几年听的情歌 (片段).txt,positive,0.8077,0.1923,88,33,24
+547,NJU Documents\抖音数据分析ppt\歌词\震撼你心 (DJ版).txt,positive,0.8287,0.1712,3,2,0
+548,NJU Documents\抖音数据分析ppt\歌词\震撼你心.txt,positive,0.8287,0.1712,3,2,0
+549,NJU Documents\抖音数据分析ppt\歌词\青春里不知疲倦的向往.txt,positive,0.9899,0.0101,70,38,30
+550,NJU Documents\抖音数据分析ppt\歌词\非酋.txt,negative,0.01,0.99,82,40,23
+551,NJU Documents\抖音数据分析ppt\歌词\风情万种.txt,positive,0.9859,0.0141,25,52,18
+552,NJU Documents\抖音数据分析ppt\歌词\风的季节.txt,positive,0.7285,0.2715,74,22,2
+553,NJU Documents\抖音数据分析ppt\歌词\风筝误.txt,positive,0.6035,0.3965,41,35,6
+554,NJU Documents\抖音数据分析ppt\歌词\馬鹿ふたり.txt,positive,0.9932,0.0067,4,2,1
+555,NJU Documents\抖音数据分析ppt\歌词\鬼火の童・鬼切、虎徹にございます!.txt,positive,0.9932,0.0067,4,2,1
+556,NJU Documents\抖音数据分析ppt\歌词\鬼迷心窍.txt,positive,0.8263,0.1737,62,23,12
+557,NJU Documents\抖音数据分析ppt\歌词\魔动闪霸：对手(live).txt,positive,0.599,0.401,48,28,6
+558,NJU Documents\抖音数据分析ppt\歌词\魔法城堡.txt,positive,0.9607,0.0393,89,79,25
+559,NJU Documents\抖音数据分析ppt\歌词\鸿运当头.txt,positive,0.9966,0.0034,36,19,5
+560,NJU Documents\抖音数据分析ppt\歌词\黄梅戏.txt,positive,0.9843,0.0157,58,47,4
+561,NJU Documents\抖音数据分析ppt\歌词\黄莺.txt,positive,0.9917,0.0083,37,22,8
+562,NJU Documents\抖音数据分析ppt\歌词\黯 (伴奏).txt,positive,0.9932,0.0067,4,2,1
+563,NJU Documents\抖音数据分析ppt\歌词\그런 연애 (那样的恋爱).txt,positive,0.8720,0.1279,1,1,0
+564,NJU Documents\抖音数据分析ppt\歌词\금요병.txt,negative,0.3819,0.6180,1,1,0
+565,NJU Documents\抖音数据分析ppt\歌词\다시 너를 (再次见到你).txt,negative,0.0534,0.9466,56,47,5
+566,NJU Documents\抖音数据分析ppt\歌词\동거 (同居).txt,positive,0.7340,0.2659,1,0,0
+567,NJU Documents\抖音数据分析ppt\歌词\동거.txt,positive,0.7340,0.2659,1,0,0
+568,NJU Documents\抖音数据分析ppt\歌词\빙고.txt,negative,0.0969,0.9030,2,2,0
+569,NJU Documents\抖音数据分析ppt\歌词\상어를 사랑한 인어 (爱上鲨鱼的人鱼).txt,positive,0.7063,0.2936,1,2,0
+570,NJU Documents\抖音数据分析ppt\歌词\여행 .txt,positive,0.5963,0.4036,2,2,0
+571,NJU Documents\抖音数据分析ppt\歌词\집에 가지마 (不要回家).txt,positive,0.7514,0.2485,2,1,0
+572,NJU Documents\抖音数据分析ppt\歌词\집에 가지마.txt,positive,0.9546,0.0453,1,1,0
+573,NJU Documents\抖音数据分析ppt\歌词\팔레트.txt,positive,0.9836,0.0164,33,24,2

@@ -1,0 +1,8 @@
+<view class='beijing'>
+  <view>
+    <image src='/images/抖音芝芝 (1).png' class='logo'></image>
+  </view>
+  <view>
+    <image src='/images/标题.png' class='title'></image>
+  </view>
+</view>

@@ -1,0 +1,39 @@
+<view class='Page'>
+  <view class='buttonLayout' hidden="{{pickerHid}}">
+    <picker bindchange="bindPickerChange" value="{{index}}" range="{{array}}" header-text="选择您的带货商品类型">
+      <view class='choice'>
+				<view class='choice1'>
+					<button class="weui-btn flash animated infinite"></button>
+				</view>
+			</view>
+    </picker>
+  </view>
+  <view class='musicInfo' hidden="{{!pickerHid}}">
+    <view class="cards" wx:for="{{items}}" wx:for-item="item" wx:key="item" data-index='{{index}}' bindtap='turnToMusic'>
+	    <view class="nav">
+		    <view class="card card-url">
+			    <image src="/images/音乐.png" mode="widthFix"></image>
+		    </view>
+		    <view class=" card card-text">
+			    <view class="card-title">{{item.bgm}}</view>
+			    <view class="card-desc">{{item.public_time}}      采纳数: {{item.match}}  获赞: {{item.like_time}}  被踩: {{item.unlike_time}}</view>
+			    <view class="card-bottom">
+				    <view>
+					    <text>{{item.language}}</text>
+				    </view>
+				    <view>
+					    <text>{{item.bpm}}</text>
+				    </view>
+				    <view>
+					    <text>{{item.genre}}</text>
+				    </view>
+			    </view>
+		    </view>
+	    </view>
+	    <view class="space"></view>
+    </view>
+  </view>
+  <view class='back' hidden="{{!pickerHid}}">
+    <image class='backbtn' bindtap='backToPicker' src='https://nandodu-blog.oss-cn-shanghai.aliyuncs.com/%E6%8A%96%E9%9F%B3%E9%9F%B3%E9%A2%91%E6%95%B0%E6%8D%AE%E5%BA%93/%E8%BF%94%E5%9B%9E.png'></image>
+  </view>
+</view>

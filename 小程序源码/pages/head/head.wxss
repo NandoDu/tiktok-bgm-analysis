@@ -1,0 +1,15 @@
+.logo {
+  height: 400rpx;
+  width: 400rpx;
+  margin-top: 350rpx;
+}
+.title {
+  height: 90rpx;
+  width: 500rpx;
+  margin-top: 50rpx;
+}
+.beijing {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

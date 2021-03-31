@@ -1,0 +1,40 @@
+<view class='Page'>
+  <view class='head'>{{goodsType}}</view>
+  <canvas canvas-id="radarCanvas" disable-scroll="true" class="canvas"></canvas>
+  <view class='name'>
+    {{name}}
+  </view>
+  <view class='btn'>
+    <button hidden='{{playing}}' bindtap='onMusic' bindlongtap="stopMusic" class='onMusic'>播放</button>
+    <button hidden='{{!playing}}' bindtap='pauseMusic' bindlongtap="stopMusic" class='onMusic'>暂停</button>
+  </view>
+  <view class='infoList'>
+    <view class='box1'>
+      <view class='info'>语种：{{languageInfo}}</view>
+      <view class='info'>流派：{{genreInfo}}</view>
+      <view class='info'>年代：{{public_timeInfo}}</view>
+    </view>
+    <view class='box2'>
+      <view class='info'>节奏：{{bpmInfo}}</view>
+      <view class='info'>倾向：{{attitudeInfo}}</view>
+      <view class='info'>情感：{{emotionInfo}}</view>
+    </view>
+  </view>
+  <view class='opetion'>
+    <view>
+      <image src='/images/点赞 (2).png' class='dianzanclass' bindtap='dianzan' hover-class='hover' hidden='{{zan}}'></image>
+      <image src='/images/点赞 (3).png' class='dianzanclass' bindtap='dianzan' hover-class='hover' hidden="{{!zan}}"></image>
+    </view>
+    <view>
+      <image src='/images/点赞 (4).png' class='diancaiclass' bindtap='diancai' hover-class='hover' hidden='{{cai}}'></image>
+      <image src='/images/点赞 (5).png' class='diancaiclass' bindtap='diancai' hover-class='hover' hidden='{{!cai}}'></image>
+    </view>
+    <view>
+      <image src='https://nandodu-blog.oss-cn-shanghai.aliyuncs.com/%E9%87%87%E7%BA%B3.png' hidden='{{accept}}' class='caina' hover-class='hover' bindtap='caina'></image>
+      <image src='https://nandodu-blog.oss-cn-shanghai.aliyuncs.com/%E9%87%87%E7%BA%B3%20%281%29.png' hidden='{{!accept}}' hover-class='hover' class='yicaina'></image>
+    </view>
+  </view>
+  <view class='back'>
+    <image class='backbtn' bindtap='backToPast' src='https://nandodu-blog.oss-cn-shanghai.aliyuncs.com/%E6%8A%96%E9%9F%B3%E9%9F%B3%E9%A2%91%E6%95%B0%E6%8D%AE%E5%BA%93/%E8%BF%94%E5%9B%9E.png'></image>
+  </view>
+</view>
